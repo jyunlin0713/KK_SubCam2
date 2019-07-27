@@ -11,3 +11,9 @@ It may not be clean, elegant, or complicated, but the plugin works nonetheless. 
 Big thanks to https://github.com/Mantas-2155X for letting me use their code as a starting point, and the guys in the KK Discord server for sharing their knowledge! 
 
 Feel free to make use of this however you like. I do not want it to die here, and I have a lot of learning to do.
+
+
+Future plans:
+-Dragable window
+-Resizeable window
+-Seperate camera controls per windows
