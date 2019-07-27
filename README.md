@@ -1,4 +1,7 @@
 # KK_SubCam2
+
+Configurable hotkey in plugin settings. Default is [Num Pad 1], but it conflicts with a few other plugins.
+
 This is my first plugin and my first use of git/github.
 
 I have no real knowledge of C# just a minimal idea of syntax. This is kind of like my "Hello, world!"
