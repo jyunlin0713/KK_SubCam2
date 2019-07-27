@@ -25,11 +25,6 @@ using ConfigurationManager;
 #endif
 
 
-public static class SubCam_Data
-{
-    public static bool SubCam_ShouldStart;
-}
-
 
 [BepInPlugin(nameof(KK_SubCam), nameof(KK_SubCam), "1.0")]
 public class KK_SubCam : BaseUnityPlugin
