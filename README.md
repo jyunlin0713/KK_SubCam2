@@ -14,6 +14,9 @@ Feel free to make use of this however you like. I do not want it to die here, an
 
 
 Future plans:
+
 -Dragable window
+
 -Resizeable window
+
 -Seperate camera controls per windows
