@@ -41,7 +41,11 @@ public class KK_SubCam : BaseUnityPlugin
 
 
     #region Config properties
+
+    [DisplayName("Activation")]
+    [Description("Sets it in motion.")]
     public static SavedKeyboardShortcut SubCam_EnableKey { get; private set; }
+
     #endregion
 
     void Awake()
